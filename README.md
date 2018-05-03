@@ -1,1 +1,1 @@
-# This read has a tIpo, please fix me.
+# This read has a typo, please fix me.
