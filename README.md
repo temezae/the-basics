@@ -1,6 +1,3 @@
-# This read has a typo, please fix me.
+# This a basic git repo tutorial
 
-# Add a new line
-
-@@
 
