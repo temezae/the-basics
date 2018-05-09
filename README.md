@@ -1,3 +1,3 @@
-# This a basic git repo tutorial
+# Git Workflows tutorial
 
 
