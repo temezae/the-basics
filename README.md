@@ -1,3 +1,3 @@
-# Git Workflows tutorial
+# Git workflows tutorial
 
 
